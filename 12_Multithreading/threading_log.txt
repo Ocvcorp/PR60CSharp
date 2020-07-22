@@ -1,0 +1,55 @@
+Base thread (Main) starts
+Timer thread starts
+'Child thread #1' starts
+'Child thread #2' starts
+'Child thread #3' starts
+'Child thread #4' starts
+'Child thread #5' starts
+'Child thread #6' starts
+Name:'Child thread #1' Priority: Normal HashCode:43495525 TimeLive:703
+Name:'Child thread #2' Priority: Normal HashCode:43495525 TimeLive:900
+Name:'Child thread #4' Priority: Normal HashCode:43495525 TimeLive:901
+Name:'Child thread #3' Priority: Normal HashCode:43495525 TimeLive:2100
+Name:'Child thread #5' Priority: Normal HashCode:43495525 TimeLive:2101
+Name:'Child thread #1' Priority: Normal HashCode:43495525 TimeLive:2801
+Name:'Child thread #3' Priority: Normal HashCode:43495525 TimeLive:3500
+Name:'Child thread #5' Priority: Normal HashCode:43495525 TimeLive:3501
+Name:'Child thread #6' Priority: Normal HashCode:43495525 TimeLive:3601
+Name:'Child thread #1' Priority: Normal HashCode:43495525 TimeLive:4200
+Name:'Child thread #2' Priority: Normal HashCode:43495525 TimeLive:4501
+Name:'Child thread #3' Priority: Normal HashCode:43495525 TimeLive:4901
+Name:'Child thread #4' Priority: Normal HashCode:43495525 TimeLive:5400
+Name:'Child thread #6' Priority: Normal HashCode:43495525 TimeLive:5401
+Name:'Child thread #5' Priority: Normal HashCode:43495525 TimeLive:6301
+Name:'Child thread #1' Priority: Normal HashCode:43495525 TimeLive:7000
+Name:'Child thread #3' Priority: Normal HashCode:43495525 TimeLive:7700
+Name:'Child thread #5' Priority: Normal HashCode:43495525 TimeLive:7701
+Name:'Child thread #2' Priority: Normal HashCode:43495525 TimeLive:8100
+Name:'Child thread #1' Priority: Normal HashCode:43495525 TimeLive:8400
+Name:'Child thread #3' Priority: Normal HashCode:43495525 TimeLive:8401
+Name:'Child thread #4' Priority: Normal HashCode:43495525 TimeLive:9001
+Name:'Child thread #5' Priority: Normal HashCode:43495525 TimeLive:9101
+Name:'Child thread #1' Priority: Normal HashCode:43495525 TimeLive:9800
+Name:'Child thread #3' Priority: Normal HashCode:43495525 TimeLive:9801
+Name:'Child thread #6' Priority: Normal HashCode:43495525 TimeLive:9901
+---------------------------------------------------
+Pulse, Wait Blocking
+Name:'Child thread #8'
+Name:'Child thread #7'
+Name:'Child thread #8'
+Name:'Child thread #7'
+Name:'Child thread #8'
+Name:'Child thread #7'
+Name:'Child thread #8'
+Name:'Child thread #7'
+Name:'Child thread #8'
+Name:'Child thread #7'
+'Child thread #1' finished
+'Child thread #2' finished
+'Child thread #3' finished
+'Child thread #4' finished
+'Child thread #5' finished
+'Child thread #6' finished
+'Child thread #7' finished
+'Child thread #8' finished
+Base thread (Main) finished
