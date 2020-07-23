@@ -1,0 +1,1 @@
+C:\Users\Alex\source\repos\UwpXamlSample\UwpXamlSample\UwpXamlSample.csproj;x86
