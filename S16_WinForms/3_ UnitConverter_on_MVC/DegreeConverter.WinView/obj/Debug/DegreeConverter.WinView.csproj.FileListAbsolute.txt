@@ -1,0 +1,12 @@
+C:\Users\dimi3o\Downloads\DegreeConverter\DegreeConverter.WinView\bin\Debug\DegreeConverter.WinView.exe
+C:\Users\dimi3o\Downloads\DegreeConverter\DegreeConverter.WinView\bin\Debug\DegreeConverter.WinView.pdb
+C:\Users\dimi3o\Downloads\DegreeConverter\DegreeConverter.WinView\bin\Debug\DegreeConverter.Engine.dll
+C:\Users\dimi3o\Downloads\DegreeConverter\DegreeConverter.WinView\bin\Debug\DegreeConverter.Engine.pdb
+C:\Users\dimi3o\Downloads\DegreeConverter\DegreeConverter.WinView\obj\Debug\DegreeConverter.WinView.csprojResolveAssemblyReference.cache
+C:\Users\dimi3o\Downloads\DegreeConverter\DegreeConverter.WinView\obj\Debug\DegreeConverter.WinView.FormView.resources
+C:\Users\dimi3o\Downloads\DegreeConverter\DegreeConverter.WinView\obj\Debug\DegreeConverter.WinView.Properties.Resources.resources
+C:\Users\dimi3o\Downloads\DegreeConverter\DegreeConverter.WinView\obj\Debug\DegreeConverter.WinView.csproj.GenerateResource.Cache
+C:\Users\dimi3o\Downloads\DegreeConverter\DegreeConverter.WinView\obj\Debug\DegreeConverter.WinView.exe
+C:\Users\dimi3o\Downloads\DegreeConverter\DegreeConverter.WinView\obj\Debug\DegreeConverter.WinView.pdb
+K:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 19\UnitConverter\DegreeConverter.WinView\obj\Debug\DegreeConverter.WinView.exe
+K:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 19\UnitConverter\DegreeConverter.WinView\obj\Debug\DegreeConverter.WinView.pdb

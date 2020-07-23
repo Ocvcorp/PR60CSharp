@@ -1,0 +1,27 @@
+H:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 17\TextEditor\TextEditor.bl\bin\Debug\TextEditor.bl.dll
+H:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 17\TextEditor\TextEditor.bl\bin\Debug\TextEditor.bl.pdb
+H:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 17\TextEditor\TextEditor.bl\obj\Debug\TextEditor.bl.csprojResolveAssemblyReference.cache
+H:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 17\TextEditor\TextEditor.bl\obj\Debug\TextEditor.bl.dll
+H:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 17\TextEditor\TextEditor.bl\obj\Debug\TextEditor.bl.pdb
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 19_2\TextEditor_onMVP\TextEditor.bl\bin\Debug\TextEditor.bl.dll
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 19_2\TextEditor_onMVP\TextEditor.bl\bin\Debug\TextEditor.bl.pdb
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 19_2\TextEditor_onMVP\TextEditor.bl\obj\Debug\TextEditor.bl.csprojResolveAssemblyReference.cache
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 19_2\TextEditor_onMVP\TextEditor.bl\obj\Debug\TextEditor.bl.dll
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 19_2\TextEditor_onMVP\TextEditor.bl\obj\Debug\TextEditor.bl.pdb
+H:\0-УНИВЕР\ИСОТ курсы, консультации\Csharp\СЕМИНАРЫ\Семинары II (ui pat gdi)\Семинар 22\TextEditor_onMVP\TextEditor_onMVP\TextEditor.bl\bin\Debug\TextEditor.bl.dll
+H:\0-УНИВЕР\ИСОТ курсы, консультации\Csharp\СЕМИНАРЫ\Семинары II (ui pat gdi)\Семинар 22\TextEditor_onMVP\TextEditor_onMVP\TextEditor.bl\bin\Debug\TextEditor.bl.pdb
+H:\0-УНИВЕР\ИСОТ курсы, консультации\Csharp\СЕМИНАРЫ\Семинары II (ui pat gdi)\Семинар 22\TextEditor_onMVP\TextEditor_onMVP\TextEditor.bl\obj\Debug\TextEditor.bl.csprojAssemblyReference.cache
+H:\0-УНИВЕР\ИСОТ курсы, консультации\Csharp\СЕМИНАРЫ\Семинары II (ui pat gdi)\Семинар 22\TextEditor_onMVP\TextEditor_onMVP\TextEditor.bl\obj\Debug\TextEditor.bl.dll
+H:\0-УНИВЕР\ИСОТ курсы, консультации\Csharp\СЕМИНАРЫ\Семинары II (ui pat gdi)\Семинар 22\TextEditor_onMVP\TextEditor_onMVP\TextEditor.bl\obj\Debug\TextEditor.bl.pdb
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\TextEditorPlus_on_MVP\TextEditor.bl\bin\Debug\TextEditor.bl.dll
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\TextEditorPlus_on_MVP\TextEditor.bl\bin\Debug\TextEditor.bl.pdb
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\TextEditorPlus_on_MVP\TextEditor.bl\obj\Debug\TextEditor.bl.csprojAssemblyReference.cache
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\TextEditorPlus_on_MVP\TextEditor.bl\obj\Debug\TextEditor.bl.csproj.CoreCompileInputs.cache
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\TextEditorPlus_on_MVP\TextEditor.bl\obj\Debug\TextEditor.bl.dll
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\TextEditorPlus_on_MVP\TextEditor.bl\obj\Debug\TextEditor.bl.pdb
+D:\TextEditorPlus_on_MVP\TextEditor.bl\bin\Debug\TextEditor.bl.dll
+D:\TextEditorPlus_on_MVP\TextEditor.bl\bin\Debug\TextEditor.bl.pdb
+D:\TextEditorPlus_on_MVP\TextEditor.bl\obj\Debug\TextEditor.bl.csprojAssemblyReference.cache
+D:\TextEditorPlus_on_MVP\TextEditor.bl\obj\Debug\TextEditor.bl.csproj.CoreCompileInputs.cache
+D:\TextEditorPlus_on_MVP\TextEditor.bl\obj\Debug\TextEditor.bl.dll
+D:\TextEditorPlus_on_MVP\TextEditor.bl\obj\Debug\TextEditor.bl.pdb

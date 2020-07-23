@@ -1,0 +1,54 @@
+K:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 19\UnitConverter\DegreeConverter.WinView\bin\Debug\UnitConverter.WinView.exe
+K:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 19\UnitConverter\DegreeConverter.WinView\bin\Debug\UnitConverter.WinView.pdb
+K:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 19\UnitConverter\DegreeConverter.WinView\bin\Debug\UnitConverter.Engine.dll
+K:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 19\UnitConverter\DegreeConverter.WinView\bin\Debug\UnitConverter.Engine.pdb
+K:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 19\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.csprojResolveAssemblyReference.cache
+K:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 19\UnitConverter\DegreeConverter.WinView\obj\Debug\DegreeConverter.WinView.FormView.resources
+K:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 19\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.Properties.Resources.resources
+K:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 19\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.csproj.GenerateResource.Cache
+K:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 19\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.exe
+K:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 19\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.pdb
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 21\UnitConverter\DegreeConverter.WinView\bin\Debug\UnitConverter.WinView.exe
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 21\UnitConverter\DegreeConverter.WinView\bin\Debug\UnitConverter.WinView.pdb
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 21\UnitConverter\DegreeConverter.WinView\bin\Debug\UnitConverter.Engine.dll
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 21\UnitConverter\DegreeConverter.WinView\bin\Debug\UnitConverter.Engine.pdb
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 21\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.csprojResolveAssemblyReference.cache
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 21\UnitConverter\DegreeConverter.WinView\obj\Debug\DegreeConverter.WinView.FormView.resources
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 21\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.Properties.Resources.resources
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 21\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.csproj.GenerateResource.Cache
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 21\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.exe
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 21\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.pdb
+M:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 23-31 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.exe
+M:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 23-31 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.pdb
+M:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 23-31 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\bin\Debug\UnitConverter.WinView.exe
+M:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 23-31 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\bin\Debug\UnitConverter.WinView.pdb
+M:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 23-31 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\bin\Debug\UnitConverter.Engine.dll
+M:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 23-31 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\bin\Debug\UnitConverter.Engine.pdb
+M:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 23-31 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.csprojResolveAssemblyReference.cache
+M:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 23-31 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\obj\Debug\DegreeConverter.WinView.FormView.resources
+M:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 23-31 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.Properties.Resources.resources
+M:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 23-31 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.csproj.GenerateResource.Cache
+F:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 23-31 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.exe
+F:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 23-31 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.pdb
+F:\0-УНИВЕР\ИСОТ курсы\Csharp\СЕМИНАРЫ\Семинары 23-35 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.exe
+F:\0-УНИВЕР\ИСОТ курсы\Csharp\СЕМИНАРЫ\Семинары 23-35 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.pdb
+F:\0-УНИВЕР\ИСОТ курсы\Csharp\СЕМИНАРЫ\Семинары 23-35 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\bin\Debug\UnitConverter.WinView.exe
+F:\0-УНИВЕР\ИСОТ курсы\Csharp\СЕМИНАРЫ\Семинары 23-35 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\bin\Debug\UnitConverter.WinView.pdb
+F:\0-УНИВЕР\ИСОТ курсы\Csharp\СЕМИНАРЫ\Семинары 23-35 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\bin\Debug\UnitConverter.Engine.dll
+F:\0-УНИВЕР\ИСОТ курсы\Csharp\СЕМИНАРЫ\Семинары 23-35 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\bin\Debug\UnitConverter.Engine.pdb
+F:\0-УНИВЕР\ИСОТ курсы\Csharp\СЕМИНАРЫ\Семинары 23-35 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.csprojResolveAssemblyReference.cache
+F:\0-УНИВЕР\ИСОТ курсы\Csharp\СЕМИНАРЫ\Семинары 23-35 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\obj\Debug\DegreeConverter.WinView.FormView.resources
+F:\0-УНИВЕР\ИСОТ курсы\Csharp\СЕМИНАРЫ\Семинары 23-35 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.Properties.Resources.resources
+F:\0-УНИВЕР\ИСОТ курсы\Csharp\СЕМИНАРЫ\Семинары 23-35 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.csproj.GenerateResource.Cache
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\lab17_3 UnitConverter_on_MVC\DegreeConverter.WinView\bin\Debug\UnitConverter.WinView.exe
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\lab17_3 UnitConverter_on_MVC\DegreeConverter.WinView\bin\Debug\UnitConverter.WinView.pdb
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\lab17_3 UnitConverter_on_MVC\DegreeConverter.WinView\bin\Debug\UnitConverter.Engine.dll
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\lab17_3 UnitConverter_on_MVC\DegreeConverter.WinView\bin\Debug\UnitConverter.Engine.pdb
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\lab17_3 UnitConverter_on_MVC\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.csprojAssemblyReference.cache
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\lab17_3 UnitConverter_on_MVC\DegreeConverter.WinView\obj\Debug\DegreeConverter.WinView.FormView.resources
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\lab17_3 UnitConverter_on_MVC\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.Properties.Resources.resources
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\lab17_3 UnitConverter_on_MVC\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.csproj.GenerateResource.cache
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\lab17_3 UnitConverter_on_MVC\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.csproj.CoreCompileInputs.cache
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\lab17_3 UnitConverter_on_MVC\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.csproj.CopyComplete
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\lab17_3 UnitConverter_on_MVC\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.exe
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\lab17_3 UnitConverter_on_MVC\DegreeConverter.WinView\obj\Debug\UnitConverter.WinView.pdb

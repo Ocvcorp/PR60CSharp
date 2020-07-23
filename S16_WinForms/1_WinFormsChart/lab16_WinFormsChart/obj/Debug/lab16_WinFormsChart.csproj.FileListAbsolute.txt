@@ -1,0 +1,10 @@
+D:\work\Работа ПР-60\C_Sharp\Cs_Seminars\16 28.05.2020 WinForms Задачи\lab16_WinFormsChart\lab16_WinFormsChart\bin\Debug\lab16_WinFormsChart.exe.config
+D:\work\Работа ПР-60\C_Sharp\Cs_Seminars\16 28.05.2020 WinForms Задачи\lab16_WinFormsChart\lab16_WinFormsChart\bin\Debug\lab16_WinFormsChart.exe
+D:\work\Работа ПР-60\C_Sharp\Cs_Seminars\16 28.05.2020 WinForms Задачи\lab16_WinFormsChart\lab16_WinFormsChart\bin\Debug\lab16_WinFormsChart.pdb
+D:\work\Работа ПР-60\C_Sharp\Cs_Seminars\16 28.05.2020 WinForms Задачи\lab16_WinFormsChart\lab16_WinFormsChart\obj\Debug\lab16_WinFormsChart.csprojAssemblyReference.cache
+D:\work\Работа ПР-60\C_Sharp\Cs_Seminars\16 28.05.2020 WinForms Задачи\lab16_WinFormsChart\lab16_WinFormsChart\obj\Debug\lab16_WinFormsChart.Properties.Resources.resources
+D:\work\Работа ПР-60\C_Sharp\Cs_Seminars\16 28.05.2020 WinForms Задачи\lab16_WinFormsChart\lab16_WinFormsChart\obj\Debug\lab16_WinFormsChart.csproj.GenerateResource.cache
+D:\work\Работа ПР-60\C_Sharp\Cs_Seminars\16 28.05.2020 WinForms Задачи\lab16_WinFormsChart\lab16_WinFormsChart\obj\Debug\lab16_WinFormsChart.csproj.CoreCompileInputs.cache
+D:\work\Работа ПР-60\C_Sharp\Cs_Seminars\16 28.05.2020 WinForms Задачи\lab16_WinFormsChart\lab16_WinFormsChart\obj\Debug\lab16_WinFormsChart.exe
+D:\work\Работа ПР-60\C_Sharp\Cs_Seminars\16 28.05.2020 WinForms Задачи\lab16_WinFormsChart\lab16_WinFormsChart\obj\Debug\lab16_WinFormsChart.pdb
+D:\work\Работа ПР-60\C_Sharp\Cs_Seminars\16 28.05.2020 WinForms Задачи\lab16_WinFormsChart\lab16_WinFormsChart\obj\Debug\lab16_WinFormsChart.Form.resources

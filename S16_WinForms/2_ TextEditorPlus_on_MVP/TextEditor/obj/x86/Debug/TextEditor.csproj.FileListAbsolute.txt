@@ -1,0 +1,67 @@
+H:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 17\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csprojResolveAssemblyReference.cache
+H:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 17\TextEditor\TextEditor\obj\x86\Debug\TextEditor.MainForm.resources
+H:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 17\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+H:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 17\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.Cache
+H:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 17\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+H:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 17\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+H:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 17\TextEditor\TextEditor\bin\Debug\TextEditor.bl.dll
+H:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 17\TextEditor\TextEditor\bin\Debug\TextEditor.bl.pdb
+H:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 17\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+H:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 17\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+F:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 18\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.exe
+F:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 18\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.pdb
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 19_2\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.exe
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 19_2\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.pdb
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 19_2\TextEditor_onMVP\TextEditor\bin\Debug\TextEditor.exe
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 19_2\TextEditor_onMVP\TextEditor\bin\Debug\TextEditor.pdb
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 19_2\TextEditor_onMVP\TextEditor\bin\Debug\TextEditor.bl.dll
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 19_2\TextEditor_onMVP\TextEditor\bin\Debug\TextEditor.bl.pdb
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 19_2\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.csprojResolveAssemblyReference.cache
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 19_2\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.MainForm.resources
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 19_2\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 19_2\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.Cache
+F:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 12-22 (oop pat)\Семинар 22\TextEditor_onMVP_2017_VS2016\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.exe
+F:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 12-22 (oop pat)\Семинар 22\TextEditor_onMVP_2017_VS2016\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.pdb
+F:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 12-22 (oop pat)\Семинар 22\TextEditor_onMVP_2017_VS2016\TextEditor_onMVP\TextEditor\bin\Debug\TextEditor.exe
+F:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 12-22 (oop pat)\Семинар 22\TextEditor_onMVP_2017_VS2016\TextEditor_onMVP\TextEditor\bin\Debug\TextEditor.pdb
+F:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 12-22 (oop pat)\Семинар 22\TextEditor_onMVP_2017_VS2016\TextEditor_onMVP\TextEditor\bin\Debug\TextEditor.bl.dll
+F:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 12-22 (oop pat)\Семинар 22\TextEditor_onMVP_2017_VS2016\TextEditor_onMVP\TextEditor\bin\Debug\TextEditor.bl.pdb
+F:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 12-22 (oop pat)\Семинар 22\TextEditor_onMVP_2017_VS2016\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.csprojResolveAssemblyReference.cache
+F:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 12-22 (oop pat)\Семинар 22\TextEditor_onMVP_2017_VS2016\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.MainForm.resources
+F:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 12-22 (oop pat)\Семинар 22\TextEditor_onMVP_2017_VS2016\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+F:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 12-22 (oop pat)\Семинар 22\TextEditor_onMVP_2017_VS2016\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.Cache
+H:\0-УНИВЕР\ИСОТ курсы, консультации\Csharp\СЕМИНАРЫ\Семинары II (ui pat gdi)\Семинар 22\TextEditor_onMVP\TextEditor_onMVP\TextEditor\bin\Debug\TextEditor.exe
+H:\0-УНИВЕР\ИСОТ курсы, консультации\Csharp\СЕМИНАРЫ\Семинары II (ui pat gdi)\Семинар 22\TextEditor_onMVP\TextEditor_onMVP\TextEditor\bin\Debug\TextEditor.pdb
+H:\0-УНИВЕР\ИСОТ курсы, консультации\Csharp\СЕМИНАРЫ\Семинары II (ui pat gdi)\Семинар 22\TextEditor_onMVP\TextEditor_onMVP\TextEditor\bin\Debug\TextEditor.bl.dll
+H:\0-УНИВЕР\ИСОТ курсы, консультации\Csharp\СЕМИНАРЫ\Семинары II (ui pat gdi)\Семинар 22\TextEditor_onMVP\TextEditor_onMVP\TextEditor\bin\Debug\TextEditor.bl.pdb
+H:\0-УНИВЕР\ИСОТ курсы, консультации\Csharp\СЕМИНАРЫ\Семинары II (ui pat gdi)\Семинар 22\TextEditor_onMVP\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.csprojAssemblyReference.cache
+H:\0-УНИВЕР\ИСОТ курсы, консультации\Csharp\СЕМИНАРЫ\Семинары II (ui pat gdi)\Семинар 22\TextEditor_onMVP\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.MainForm.resources
+H:\0-УНИВЕР\ИСОТ курсы, консультации\Csharp\СЕМИНАРЫ\Семинары II (ui pat gdi)\Семинар 22\TextEditor_onMVP\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+H:\0-УНИВЕР\ИСОТ курсы, консультации\Csharp\СЕМИНАРЫ\Семинары II (ui pat gdi)\Семинар 22\TextEditor_onMVP\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.cache
+H:\0-УНИВЕР\ИСОТ курсы, консультации\Csharp\СЕМИНАРЫ\Семинары II (ui pat gdi)\Семинар 22\TextEditor_onMVP\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.csproj.CopyComplete
+H:\0-УНИВЕР\ИСОТ курсы, консультации\Csharp\СЕМИНАРЫ\Семинары II (ui pat gdi)\Семинар 22\TextEditor_onMVP\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.exe
+H:\0-УНИВЕР\ИСОТ курсы, консультации\Csharp\СЕМИНАРЫ\Семинары II (ui pat gdi)\Семинар 22\TextEditor_onMVP\TextEditor_onMVP\TextEditor\obj\x86\Debug\TextEditor.pdb
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\TextEditorPlus_on_MVP\TextEditor\obj\x86\Debug\TextEditor.csprojAssemblyReference.cache
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\TextEditorPlus_on_MVP\TextEditor\obj\x86\Debug\TextEditor.MainForm.resources
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\TextEditorPlus_on_MVP\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\TextEditorPlus_on_MVP\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.cache
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\TextEditorPlus_on_MVP\TextEditor\obj\x86\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\TextEditorPlus_on_MVP\TextEditor\obj\x86\Debug\TextEditor.exe
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\TextEditorPlus_on_MVP\TextEditor\obj\x86\Debug\TextEditor.pdb
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\TextEditorPlus_on_MVP\TextEditor\bin\Debug\TextEditor.exe
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\TextEditorPlus_on_MVP\TextEditor\bin\Debug\TextEditor.pdb
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\TextEditorPlus_on_MVP\TextEditor\bin\Debug\TextEditor.bl.dll
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\TextEditorPlus_on_MVP\TextEditor\bin\Debug\TextEditor.bl.pdb
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\TextEditorPlus_on_MVP\TextEditor\obj\x86\Debug\TextEditor.csproj.CopyComplete
+D:\TextEditorPlus_on_MVP\TextEditor\obj\x86\Debug\TextEditor.csprojAssemblyReference.cache
+D:\TextEditorPlus_on_MVP\TextEditor\obj\x86\Debug\TextEditor.MainForm.resources
+D:\TextEditorPlus_on_MVP\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+D:\TextEditorPlus_on_MVP\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.cache
+D:\TextEditorPlus_on_MVP\TextEditor\obj\x86\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\TextEditorPlus_on_MVP\TextEditor\obj\x86\Debug\TextEditor.exe
+D:\TextEditorPlus_on_MVP\TextEditor\obj\x86\Debug\TextEditor.pdb
+D:\TextEditorPlus_on_MVP\TextEditor\bin\Debug\TextEditor.exe
+D:\TextEditorPlus_on_MVP\TextEditor\bin\Debug\TextEditor.pdb
+D:\TextEditorPlus_on_MVP\TextEditor\bin\Debug\TextEditor.bl.dll
+D:\TextEditorPlus_on_MVP\TextEditor\bin\Debug\TextEditor.bl.pdb
+D:\TextEditorPlus_on_MVP\TextEditor\obj\x86\Debug\TextEditor.csproj.CopyComplete

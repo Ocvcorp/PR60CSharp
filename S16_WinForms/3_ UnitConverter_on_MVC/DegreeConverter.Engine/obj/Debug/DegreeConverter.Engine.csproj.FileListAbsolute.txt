@@ -1,0 +1,4 @@
+C:\Users\dimi3o\Downloads\DegreeConverter\DegreeConverter.Engine\bin\Debug\DegreeConverter.Engine.dll
+C:\Users\dimi3o\Downloads\DegreeConverter\DegreeConverter.Engine\bin\Debug\DegreeConverter.Engine.pdb
+C:\Users\dimi3o\Downloads\DegreeConverter\DegreeConverter.Engine\obj\Debug\DegreeConverter.Engine.dll
+C:\Users\dimi3o\Downloads\DegreeConverter\DegreeConverter.Engine\obj\Debug\DegreeConverter.Engine.pdb

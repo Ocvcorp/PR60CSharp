@@ -1,0 +1,23 @@
+K:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 19\UnitConverter\DegreeConverter.Engine\bin\Debug\UnitConverter.Engine.dll
+K:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 19\UnitConverter\DegreeConverter.Engine\bin\Debug\UnitConverter.Engine.pdb
+K:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 19\UnitConverter\DegreeConverter.Engine\obj\Debug\UnitConverter.Engine.dll
+K:\УНИВЕР\Работа МГТУ\ИСОТ\Программы\Семинар 19\UnitConverter\DegreeConverter.Engine\obj\Debug\UnitConverter.Engine.pdb
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 21\UnitConverter\DegreeConverter.Engine\bin\Debug\UnitConverter.Engine.dll
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 21\UnitConverter\DegreeConverter.Engine\bin\Debug\UnitConverter.Engine.pdb
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 21\UnitConverter\DegreeConverter.Engine\obj\Debug\UnitConverter.Engine.dll
+H:\УНИВЕР\Работа МГТУ\ИСОТ С#\Программы\Семинар 21\UnitConverter\DegreeConverter.Engine\obj\Debug\UnitConverter.Engine.pdb
+M:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 23-31 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.Engine\bin\Debug\UnitConverter.Engine.dll
+M:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 23-31 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.Engine\bin\Debug\UnitConverter.Engine.pdb
+M:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 23-31 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.Engine\obj\Debug\UnitConverter.Engine.dll
+M:\УНИВЕР\Работа МГТУ\ИСОТ С#\СЕМИНАРЫ\Семинары 23-31 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.Engine\obj\Debug\UnitConverter.Engine.pdb
+F:\0-УНИВЕР\ИСОТ курсы\Csharp\СЕМИНАРЫ\Семинары 23-35 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.Engine\bin\Debug\UnitConverter.Engine.dll
+F:\0-УНИВЕР\ИСОТ курсы\Csharp\СЕМИНАРЫ\Семинары 23-35 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.Engine\bin\Debug\UnitConverter.Engine.pdb
+F:\0-УНИВЕР\ИСОТ курсы\Csharp\СЕМИНАРЫ\Семинары 23-35 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.Engine\obj\Debug\UnitConverter.Engine.csprojResolveAssemblyReference.cache
+F:\0-УНИВЕР\ИСОТ курсы\Csharp\СЕМИНАРЫ\Семинары 23-35 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.Engine\obj\Debug\UnitConverter.Engine.dll
+F:\0-УНИВЕР\ИСОТ курсы\Csharp\СЕМИНАРЫ\Семинары 23-35 (wpf gdi ado)\Семинар 23\UnitConverter\DegreeConverter.Engine\obj\Debug\UnitConverter.Engine.pdb
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\lab17_3 UnitConverter_on_MVC\DegreeConverter.Engine\bin\Debug\UnitConverter.Engine.dll
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\lab17_3 UnitConverter_on_MVC\DegreeConverter.Engine\bin\Debug\UnitConverter.Engine.pdb
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\lab17_3 UnitConverter_on_MVC\DegreeConverter.Engine\obj\Debug\UnitConverter.Engine.csprojAssemblyReference.cache
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\lab17_3 UnitConverter_on_MVC\DegreeConverter.Engine\obj\Debug\UnitConverter.Engine.csproj.CoreCompileInputs.cache
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\lab17_3 UnitConverter_on_MVC\DegreeConverter.Engine\obj\Debug\UnitConverter.Engine.dll
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S17_MVP_MVC\lab17_3 UnitConverter_on_MVC\DegreeConverter.Engine\obj\Debug\UnitConverter.Engine.pdb
