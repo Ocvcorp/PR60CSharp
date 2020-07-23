@@ -1,0 +1,16 @@
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S18_WPF\Lab18_3 Fifteens\Fifteens\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S18_WPF\Lab18_3 Fifteens\Fifteens\WpfApp1\bin\Debug\WpfApp1.exe
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S18_WPF\Lab18_3 Fifteens\Fifteens\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S18_WPF\Lab18_3 Fifteens\Fifteens\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S18_WPF\Lab18_3 Fifteens\Fifteens\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S18_WPF\Lab18_3 Fifteens\Fifteens\WpfApp1\obj\Debug\App.g.cs
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S18_WPF\Lab18_3 Fifteens\Fifteens\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S18_WPF\Lab18_3 Fifteens\Fifteens\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S18_WPF\Lab18_3 Fifteens\Fifteens\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S18_WPF\Lab18_3 Fifteens\Fifteens\WpfApp1\obj\Debug\MainWindow.baml
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S18_WPF\Lab18_3 Fifteens\Fifteens\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S18_WPF\Lab18_3 Fifteens\Fifteens\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S18_WPF\Lab18_3 Fifteens\Fifteens\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S18_WPF\Lab18_3 Fifteens\Fifteens\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S18_WPF\Lab18_3 Fifteens\Fifteens\WpfApp1\obj\Debug\WpfApp1.exe
+D:\work\Работа ПР-60\C_Sharp\Cs_HomeWork\S18_WPF\Lab18_3 Fifteens\Fifteens\WpfApp1\obj\Debug\WpfApp1.pdb
